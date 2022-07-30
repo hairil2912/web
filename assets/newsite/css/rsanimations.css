@@ -1,0 +1,275 @@
+/**
+*
+* -----------------------------------------------------------------------------
+*
+* Template : Medvill Health & Medical HTML5 Template
+* Author : rs-theme
+* Author URI : http://www.rstheme.com/
+*
+* -----------------------------------------------------------------------------
+*
+**/
+
+/*-- Button Icon Movement --*/
+@keyframes readon-icon {
+	from, to {
+		right: -10px;
+	}
+	50% {
+		right: -15px;
+	}
+}
+@-webkit-keyframes readon-icon {
+	from, to {
+		right: -10px;
+	}
+	50% {
+		right: -15px;
+	}
+}
+@keyframes readon-icon-left {
+	from, to {
+		left: -10px;
+	}
+	50% {
+		left: -15px;
+	}
+}
+@-webkit-keyframes readon-icon-left {
+	from, to {
+		left: -10px;
+	}
+	50% {
+		left: -15px;
+	}
+}
+
+/*-- Banner Box After Movement Effect --*/
+@keyframes box-after {
+	from, to {
+		width: 570px;
+	}
+	50% {
+		width: 520px;
+	}
+}
+@-webkit-keyframes box-after {
+	from, to {
+		width: 570px;
+	}
+	50% {
+		width: 520px;
+	}
+}
+
+/*-- Banner Box Before Movement Effect --*/
+@keyframes box-before {
+	from, to {
+		width: 530px;
+	}
+	50% {
+		width: 560px;
+	}
+}
+@-webkit-keyframes box-before {
+	from, to {
+		width: 530px;
+	}
+	50% {
+		width: 560px;
+	}
+}
+
+/*-- Gray Filter Pulse Effect --*/
+@keyframes burn-pulse {
+	0% {
+		filter: grayscale(0);
+	}
+	25% {
+		filter: grayscale(100%);
+	}
+	50% {
+		filter: grayscale(0);
+	}
+	75% {
+		filter: grayscale(100%);
+	}
+	100% {
+		filter: grayscale(0);
+	}
+}
+@-webkit-keyframes burn-pulse {
+	0% {
+		filter: grayscale(0);
+	}
+	25% {
+		filter: grayscale(100%);
+	}
+	50% {
+		filter: grayscale(0);
+	}
+	75% {
+		filter: grayscale(100%);
+	}
+	100% {
+		filter: grayscale(0);
+	}
+}
+
+/*Image Shine Image*/
+@keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+@-webkit-keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+
+/* contact bg movement */
+@keyframes my-bg-move {
+	0% {
+		left: 25%;
+		transform: translate(-75%, -50%);
+	}
+	50% {
+		left: 75%;
+		transform: translate(-25%, -50%);
+	}
+	100% {
+		left: 25%;
+		transform: translate(-75%, -50%);
+	}
+}
+@-webkit-keyframes my-bg-move {
+	0% {
+		left: 25%;
+		transform: translate(-75%, -50%);
+	}
+	50% {
+		left: 75%;
+		transform: translate(-25%, -50%);
+	}
+	100% {
+		left: 25%;
+		transform: translate(-75%, -50%);
+	}
+}
+
+/* Close Icon Move */
+@keyframes close-png {
+	0% {
+		transform: rotate(0deg);
+		left: 0;
+		top: 0;
+	}
+	25% {
+		left:  40px;
+		top: 0;
+		transform: rotate(360deg);
+	}
+	50% {
+		top: 40px;
+		left: 40px;
+		transform: rotate(0deg);
+	}
+	75% {
+		left: 0;
+		top: 40px;
+		transform: rotate(-360deg);
+	}
+	100% {
+		transform: rotate(0deg);
+		top: 0;
+		left: 0;
+	}
+}
+
+/* Camera Icon Move */
+@keyframes camera-png {
+	0% {
+		transform: rotate(0deg);
+		right: 0;
+		top: 0;
+	}
+	25% {
+		right:  40px;
+		top: 0;
+		transform: rotate(360deg);
+	}
+	50% {
+		top: 40px;
+		right: 40px;
+		transform: rotate(0deg);
+	}
+	75% {
+		right: 0;
+		top: 40px;
+		transform: rotate(360deg);
+	}
+	100% {
+		transform: rotate(0deg);
+		top: 0;
+		right: 0;
+	}
+}
+
+/* Triangle Icon Move */
+@keyframes triangle-png {
+	0% {
+		transform: rotate(0deg);
+		right: 0;
+		bottom: 0;
+	}
+	25% {
+		right:  40px;
+		bottom: 0;
+		transform: rotate(360deg);
+	}
+	50% {
+		bottom: 40px;
+		right: 40px;
+		transform: rotate(0deg);
+	}
+	75% {
+		right: 0;
+		bottom: 40px;
+		transform: rotate(360deg);
+	}
+	100% {
+		transform: rotate(0deg);
+		bottom: 0;
+		right: 0;
+	}
+}
+
+/* Chat Icon Move */
+@keyframes chat-png {
+	0% {
+		transform: rotate(0deg);
+		left: 0;
+		bottom: 0;
+	}
+	25% {
+		left:  40px;
+		bottom: 0;
+		transform: rotate(360deg);
+	}
+	50% {
+		bottom: 40px;
+		left: 40px;
+		transform: rotate(0deg);
+	}
+	75% {
+		left: 0;
+		bottom: 40px;
+		transform: rotate(-360deg);
+	}
+	100% {
+		transform: rotate(0deg);
+		bottom: 0;
+		left: 0;
+	}
+}

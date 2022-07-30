@@ -1,0 +1,1966 @@
+/**
+* 
+* -----------------------------------------------------------------------------
+*
+* Template : Medvill Health & Medical HTML5 Template
+* Author : rs-theme
+* Author URI : http://www.rstheme.com/
+*
+* -----------------------------------------------------------------------------
+*
+**/
+@media only screen and (min-width: 1366px){
+	.container {
+	    max-width: 1260px;
+	    width: 100%;
+	}
+}
+
+@media only screen and (min-width: 1500px){
+	.container {
+	    max-width: 1400px;
+	    width: 100%;
+	}
+}
+@media only screen and (max-width: 1599px){
+	.rs-slider.home3slider .sl-appointment {
+		padding: 50px 40px;
+	}
+}
+@media only screen and (max-width: 1440px){
+	.sec-title .title,
+	.sec-title .title-small {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.rs-slider.home-slider .single-slide .img-part img {
+		max-width: 600px;
+	}
+	.rs-inner-services-item-part .item-services {
+		padding: 45px 30px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list.border-before::before {
+		left: -30px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list .counter-text {
+		font-size: 18px;
+		line-height: 18px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part {
+		padding: 50px 29px;
+	}
+	.full-width-header .rs-header.homestyle .menu-area.sticky .main-menu .rs-menu .nav-menu li,
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li {
+		margin-right: 18px;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h3 {
+		font-size: 25px;
+		line-height: 33px;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h1 {
+		font-size: 49px;
+	}
+	.rs-item-services-part .item-services {
+		padding: 30px 20px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li a {
+		font-size: 14px;
+	}
+	.rs-slider.home2slider .single-slide .title-part .title {
+		font-size: 65px;
+		line-height: 65px;
+	}
+	.rs-slider.home2slider .single-slide {
+		padding: 270px 0 285px;
+	}
+	.rs-icon-slider-part .services-item .icon-part img {
+		height: 30px;
+	}
+	.rs-icon-slider-part .services-item .dese-part a {
+		font-size: 13px;
+		line-height: 20px;
+	}
+	.rs-slider.home2slider .single-slide .desc-part p {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.rs-slider.home2slider .single-slide .title-part .award {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.rs-slider.home4slider .single-slide,
+	.rs-slider.home5slider .single-slide,
+	.rs-slider.home6slider .single-slide {
+		height: 650px;
+	}
+
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-title {
+		font-size: 57px;
+		line-height: 67px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-sub-title {
+		font-size: 31px;
+		line-height: 41px;
+		margin: 0 0 13px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .desc-part p {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .btn-part {
+		margin: 25px 0 0;
+	}
+	.rs-slider.home6slider .single-slide .content-part .tag-part .slider-sub-title {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.rs-slider.home6slider .single-slide .content-part .tag-part .slider-title {
+		font-size: 58px;
+	}
+	.rs-slider.home3slider .sl-appointment .select-option::after {
+		right: 10px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-sub-title {
+		font-size: 37px;
+		line-height: 47px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-title {
+		font-size: 60px;
+		line-height: 65px;
+	}
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part {
+		padding: 30px 20px 30px;
+	}
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: 80px;
+	}
+	.rs-choose-us-part.part2 .appointment-form .from-control {
+		padding: 10px;
+	}
+	.rs-footer-inner .footer-section .social-icon li {
+		margin-right: 8px;
+	}
+}
+@media only screen and (max-width: 1365px){
+	.sl-appointment .sec-title .title,
+	.sec-title .title, 
+	.sec-title .title-small {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.rs-slider.home3slider .sl-appointment {
+		padding: 50px 30px;
+	}	
+}
+@media only screen and (max-width: 1199px){
+	.hidden-lg {
+		display: none !important;
+	}
+	.rs-inner-services-item-part .item-services {
+		display: block;
+	}
+	.rs-inner-blog-part .widget-area .blog-recent-post .recent-post-widget {
+		display: block;
+	}
+	.rs-inner-blog-part .widget-area .blog-recent-post .recent-post-widget .post-img {
+		padding: 0;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.rs-inner-blog-part .widget-area {
+		padding: 35px 30px 40px;
+	}
+	.rs-inner-services-item-part .item-services .icon-part {
+		padding: 0 0 10px;
+	}
+	.lg-mr-0 {
+		margin-right: 0 !important;
+	}
+	.readon.big {
+		padding: 13px 56px 13px 30px;
+		font-size: 15px;
+	}
+	.owl-carousel:hover [class*="owl-"] .owl-prev {
+	    left: -30px;
+	}
+	.owl-carousel:hover [class*="owl-"] .owl-next {
+	    right: -30px;
+	}
+	.rs-slider.home7slider .single-slide {
+	    height: 650px;
+	}
+	.rs-portfolio-Detail .inner-content-part,
+	.rs-portfolio-Detail.part3 .Appointment-table-wrap,
+	.rs-portfolio-Detail.part3 .inner-images,
+	.rs-portfolio-Detail.part3 .project-desc,
+	.rs-portfolio-Detail.part3 .details-tabs-area .team-detail-wrap {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list.border-before::before {
+		left: -14px;
+	}
+	.rs-item-services-part .item-services {
+		display: block;
+	}
+	.rs-meet-with-doctor-part.part2 .item .team-inner .img-part .text-area {
+		padding: 0 20px 12px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .services-desc,
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: 0;
+	}
+	.rs-item-services-part .item-services .icon-part {
+		padding-right: 0;
+		margin-bottom: 10px;
+	}
+	.rs-team-inner-part-find-doctor-part .item-team-part .item-team-inner .normal-text {
+		left: 20px;
+		right: 20px;
+	}
+	.rs-slider.home-slider .single-slide {
+		height: unset !important;
+		display: block;
+		padding: 280px 0 200px;
+	}
+	.rs-slider.home-slider .single-slide .content-part {
+		padding: 0;
+	}
+	.rs-slider.home-slider .single-slide .img-part img {
+		max-width: 460px;
+	}
+	.rs-slider.home-slider .single-slide .img-part {
+		right: 20px;
+	}
+	.rs-footer-inner .footer-section .social-icon li {
+		margin-right: 8px;
+	}
+	.full-width-header .rs-topbar-part {
+		padding: 5px 0;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li a {
+		padding: 25px 0 !important;
+	}
+	.rs-footer-inner .footer-section .footer-title h3 {
+		font-size: 17px;
+	}
+	.rs-titmetable .table-container .table-content .titmetable tbody td {
+		min-width: 200px;
+	}
+	.rs-titmetable .table-container .table-content .titmetable tbody td:first-child {
+		min-width: unset;
+	}
+	.rs-footer-inner .footer-section .social-icon i {
+		width: 32px;
+		height: 32px;
+		line-height: 32px;
+	}
+	.rs-icon-slider-part .services-item {
+		padding: 15px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-text {
+		font-size: 17px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-count .counter-number {
+		font-size: 35px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-count {
+		margin-bottom: 10px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-count .post-tag {
+		padding-left: 5px;
+	}
+	.rs-our-qualified-doctor .item .team-inner .normal-text .person-name a {
+		font-size: 18px;
+	}
+	.rs-footer-inner .footer-section .footer-title {
+		margin-bottom: 0;
+	}
+	.mobile-hide-large {
+		display: none !important;
+	}
+	.rs-item-services-part .item-services .icon-part {
+		padding-right: 15px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .sub-menu li a,
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu .mega-menu-container .single-megamenu .sub-menu .menu-title {
+		padding: 10px 15px !important;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu.large-mega {
+		width: 930px;
+	}
+	.full-width-header .rs-header .menu-area .logo-area img {
+		max-height: 25px;
+	}
+	.rs-toolbar-part .rs-contact-info .contact-part {
+	    padding-right: 10px;
+	    padding-left: 10px;
+	}
+	.rs-toolbar-part .rs-contact-info .contact-part i {
+		margin-right: 10px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn ul li a
+	.mobile-hide-large{
+		display: none !important;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu {
+	    padding-right: 0;
+	}
+	.full-width-header .rs-header.home3style .menu-area.sticky .main-menu .rs-menu .nav-menu li,
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li {
+		margin-right: 20px;
+	}
+	.full-width-header .rs-header.homestyle .menu-area.sticky .main-menu .rs-menu .nav-menu {
+		padding-right: 0;
+	}
+	.rs-quality-services-part .item-services {
+		padding: 70px 20px 45px 20px;
+	}
+	.rs-our-patients-part3 .item {
+		padding: 40px 15px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu {
+		width: 100%;
+	}
+	.full-width-header .rs-header.home2style .rs-menu-toggle i {
+		color: #021b79;
+	}
+	.full-width-header .rs-header.home2style {
+		position: unset;
+		content: unset;
+	}
+	.full-width-header .rs-header.home2style .box-layout {
+		margin-top: 0;
+		padding: 0 40px;
+		border-radius: 0;
+		max-width: 100%;
+		background: #fff;
+	}
+	.full-width-header .rs-header.home2style .menu-area.sticky {
+		background: #fff;
+	}
+	.full-width-header .rs-header.home2style .menu-area .box-layout .main-menu .rs-menu-toggle {
+		background: transparent;
+	}
+	.full-width-header .rs-header.home2style .menu-area .box-layout .main-menu .nav-menu li a,
+	.full-width-header .rs-header.home2style .menu-area.sticky .box-layout .main-menu .nav-menu li a {
+		padding: 18px 0;
+	}
+	.rs-our-patients-part3 .item {
+		padding: 40px 15px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-sub-title {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 45px;
+	    line-height: 55px;
+	}
+	.sec-title .title,
+	.sec-title .title-small,
+	.rs-why-choose-us .why-choose-bottom .tab-area .tab-content .tab-pane .content-part .title {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread {
+	    padding: 200px 0 100px;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread .title-part {
+		font-size: 45px;
+		line-height: 55px;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .tab-content .tab-pane {
+		padding: 30px;
+	}
+	.rs-latest-part .item .blog-item .blog-full .blog-meta .title,
+	.rs-latest-part .item .blog-item .blog-full .blog-meta .title a {
+		font-size: 18px !important;
+	}
+	.rs-latest-part .item .blog-item .img-part .category {
+		bottom: 20px !important;
+		left: 20px;
+	}
+	.rs-expertise-part.part3 .content-part {
+	    padding-right: 0;
+	}
+	.rs-get-an-appointment-part .rs-book-appointment {
+		margin-right: 0;
+		padding: 50px 30px;
+	}
+	.rs-get-an-appointment-part .rs-book-appointment .from-control {
+		padding: 10px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list .counter-text {
+		font-size: 17px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-count .counter-number {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part {
+		padding: 50px 30px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .icon-part {
+	    float: none !important;
+	    padding: 0 !important;
+	    margin-bottom: 20px;
+	    width: 100% !important;
+	}
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part .icon-part {
+	    float: unset;
+	    margin-bottom: 20px;
+	}
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part .services-desc .title-part {
+		margin: 0 0 5px;
+	}
+	.rs-our-services-part.part2 .item .item-services .services-desc .title-upper {
+		margin: 0;
+	}
+	.rs-our-services-part.part2 .item .item-services .services-desc .title-upper a {
+		font-size: 17px;
+	}
+
+	.rs-our-qualified-doctor .owl-carousel:hover [class*="owl-"] .owl-prev {
+		left: -30px;
+	}
+	.rs-our-qualified-doctor .owl-carousel:hover [class*="owl-"] .owl-next {
+	    right: -30px;
+	}
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.rs-choose-us-part.part2 .appointment-form {
+		padding: 50px 30px;
+	}
+	.rs-our-quality-services-part .appointment-form {
+		padding: 70px 40px;
+	}
+	.rs-about.style1 .rs-count.homestyle {
+		padding: 30px 30px 30px 40px;
+	}
+	.rs-about.style1 .rs-count.homestyle .rs-counter-list .counter-top {
+		margin-bottom: 15px;
+	}
+	.rs-about.style1 .rs-count.homestyle .rs-counter-list .counter-top .counter-number {
+		font-size: 40px;
+	}
+	.rs-about.style1 .rs-count.homestyle .rs-counter-list .counter-text {
+		font-size: 15px;
+	}
+
+}
+@media only screen and (min-width: 992px) {
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky {
+		background: #0b2ba7;
+		position: fixed;
+		z-index: 999;
+		margin: 0 auto;
+		padding: 0;
+		top: 0;
+		left: 0;
+		right: 0;
+		width: 100%;
+		-webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+		-webkit-animation-name: sticky-animation;
+		animation-name: sticky-animation;
+	}
+	.full-width-header .rs-header.home2style .menu-area.menu-sticky.sticky {
+		background: #fff;
+	}
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky .logo-area img{
+		max-width: 129px;
+	}
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky .border-style::after {
+		height: 50px;
+	}
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky .main-menu .expand-btn ul li.border-style::after {
+		height: 50px;
+	}
+
+	.full-width-header.personal-head .rs-header .menu-area.menu-sticky.sticky .rs-menu .nav-menu > li > a {
+		color: #303745;
+	}
+	.full-width-header .rs-header .menu-area.sticky .main-menu .rs-menu .nav-menu li a {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn ul li.border-style::after {
+		height: 50px;
+	}
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky .main-menu .expand-btn {
+		transition: all 0.3s ease 0s;
+	}
+}
+@media only screen and (max-width: 991px){
+	.readon.transparent {
+		font-size: 15px;
+		padding: 14px 55px 16px 25px;
+	}
+	.md-order-unset {
+		order: unset;
+	}
+	.pb-260 {
+		padding-bottom: 210px;
+	}
+	.md-pb-155 {
+	    padding-bottom: 155px;
+	}
+	.rs-inner-blog-part .main-part .single-content {
+		padding: 30px;
+	}
+	.rs-inner-blog-part .widget-area .blog-recent-post .recent-post-widget {
+		display: flex;
+	}
+	.rs-inner-blog-part .widget-area .blog-recent-post .recent-post-widget .post-img {
+		padding: 0 15px 0 0;
+		width: 100px;
+		margin-bottom: 0;
+	}
+	.rs-inner-blog-part .main-part .single-content .blockquote {
+		padding: 20px;
+		margin: 20px 0;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .desc-part {
+		font-size: 15px;
+		line-height: 26px;
+	}
+	.rs-inner-blog-part .widget-area {
+		padding: 20px 20px;
+	}
+	.md-mt-0 {
+	    margin-top: 0px !important;
+	}
+	.rs-inner-blog-part .widget-area .recent-post-widget {
+		border-top: unset;
+	}
+	.rs-inner-blog-part .widget-area.part2 {
+		margin-right: 0px !important;
+	}
+	.rs-latest-part.part8 .title a {
+		font-size: 25px !important;
+		line-height: 25px !important;
+	}
+	.rs-inner-blog-part .widget-area {
+		margin: unset;
+	}
+	.rs-portfolio-Detail.part3 .inner-images .ps-informations .single-title {
+		font-size: 18px;
+		line-height: 48px;
+	}
+	.rs-portfolio-Detail.part3 .title-gray {
+		font-size: 20px;
+		line-height: 30px;;
+	}
+	.rs-portfolio-Detail.part2 .wap-text-column .chevron-right-icon li {
+		padding-left: 25px;
+	}
+	.rs-portfolio-Detail.part2 .wap-text-column .chevron-right-icon li::before {
+		left: 0;
+	}
+	.rs-inner-medvill-faq-part .content-part .title .dental-part {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.rs-portfolio-Detail .inner-content-part .title-inner .title {
+		font-size: 22px;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+	.custom-row {
+		margin-right: -15px;
+		margin-left: -15px;
+	}
+	.custom-row [class*="col-"] {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.rs-contact-part .rs-item-part .item-address-part .icon-part {
+		padding-left: 0;
+		padding-right: 15px;
+	}
+	.rs-slider.home-slider .single-slide {
+		padding: 190px 0 160px;
+	}
+	.rs-doctors-appointment-part .content-part .title-part {
+		font-size: 33px;
+		line-height: 45px;
+	}
+	.search-data-contain-part .main-part {
+		margin-top: 80px;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text .content-text .normal-text .team-name {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text {
+		padding: 50px 30px 50px ! important;
+	}
+	.full-width-header .rs-header.home2style .box-layout {
+		padding: 0 15px;
+	}
+	.full-width-header .rs-header.home2style .menu-area .box-layout .main-menu .nav-menu li .sub-menu li .sub-menu {
+	    left: 0;
+	    right: unset;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread .title-part {
+	    font-size: 35px;
+	    line-height: 45px;
+	}
+	.rs-medvill-medical-part .rs-services-part .content-part .desc-part {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.bg4 {
+		background-position: 30% 0;
+		padding-top: 70px;
+		padding-bottom: 50px;
+	}
+	.rs-our-quality-services-part .appointment-form {
+		padding: 50px;
+	}
+	.rs-icon-slider-part.part3 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: unset;
+		padding-top: unset;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: unset;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .icon-part {
+		float: left;
+		width: unset;
+		padding-right: 25px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: unset;
+	}
+	.order-last {
+	    -ms-flex-order: unset;
+	    order: unset;
+	}
+	.md-col-gap {
+		padding: 0 15px;
+	}
+	.hidden-md {
+		display: none !important;
+	}
+	.rs-toolbar-part {
+		display: none;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .mobile-logo-part {
+		display: block;
+	}
+	.sl-appointment .sec-title .title,
+	.sec-title .title-small,
+	.sec-title .title {
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.sec-title .desc {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.sec-title .desc br {
+		display: none;
+	}
+	.rs-slider.home3slider {
+		padding: 80px 0;
+	}
+	.rs-slider.home-slider .single-slide {
+		height: 550px;
+	}
+	.rs-slider.home2slider .single-slide {
+		padding: 200px 0;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h1 {
+		font-size: 40px;
+	}
+	.rs-slider.home4slider .single-slide,
+	.rs-slider.home5slider .single-slide,
+	.rs-slider.home7slider .single-slide {
+		height: 500px;
+	}
+	.rs-slider.home6slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 50px;
+	    line-height: 60px;
+	}
+	.rs-footer-inner .footer-section .social-icon i {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+	}
+	.rs-expertise-part.part2.pt-177 {
+		padding-top: 43px;
+	}
+	.rs-footer-inner .footer-section .footer-logo img {
+		height: 25px;
+	}
+	.rs-slider.home-slider .single-slide .content-part {
+		padding-top: 40px;
+	}
+	.rs-doctors-appointment-part .content-part {
+		padding: 90px 0 90px;
+	}
+	.description .desc-part {
+		font-size: 15px;
+		line-height: 27px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu.large-mega {
+		width: 100%;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu .mega-menu-container .single-megamenu .sub-menu .menu-title {
+		padding: 10px 15px;
+	}
+	.full-width-header .menu-area .rs-vertical-middle {
+		-ms-flex-align: unset;
+		-webkit-align-items: unset;
+		align-items: unset;
+	}
+	.full-width-header .rs-header .menu-area {
+		position: relative;
+		z-index: 9;
+	}
+	.full-width-header .rs-header.homestyle.home3style .menu-area .main-menu .rs-menu {
+	    position: absolute;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu {
+		position: absolute;
+		background: #0b2ba7;
+		max-width: 690px;
+	}
+	.full-width-header .rs-header.home2style .menu-area .main-menu .rs-menu {
+		max-width: unset;
+	}	
+	.rs-menu-toggle i {
+	    margin-right: 0px;
+	}
+	.full-width-header.personal-head .rs-header .menu-area.menu-sticky.sticky {
+		background: unset;
+	}
+	.rs-header.homestyle .menu-area.menu-sticky.sticky,
+	.rs-header.homestyle .main-menu .mobile-menu .rs-menu-toggle {
+		background: transparent;
+	}
+	.rs-header .menu-area.menu-sticky.sticky .logo-area img {
+		width: auto;
+		max-width: 100% !important;
+	}
+	.full-width-header .rs-header.homestyle.home3style .menu-area .rs-menu-toggle {
+		color: #0b2ba7 !important;
+	}
+	.full-width-header.personal-head .rs-header .menu-area.menu-sticky.sticky .rs-menu .nav-menu > li > a,
+	.full-width-header .rs-header.homestyle.home3style .menu-area .nav-menu li a {
+	    color: #fff;
+	}
+	.full-width-header.personal-head .rs-header .menu-area.menu-sticky.sticky .rs-menu .nav-menu .current-menu-item > a,
+	.full-width-header .rs-header.homestyle.home3style .menu-area .nav-menu li a:hover,
+	.full-width-header .rs-header.homestyle.home3style .menu-area ul li.current-menu-item > a {
+	    color: #ccc;
+	}
+	.rs-header.homestyle .main-menu .nav-menu {
+		background: #0b2ba7;
+	}
+	.full-width-header .menu-area .nav-menu .rs-mega-menu .sub-menu div.sub-menu-close {
+		display: none;
+	}
+	.full-width-header .rs-header .menu-area .logo-area {
+		position: absolute;
+		top: 26px;
+		z-index: 1;
+	}
+	.rs-menu-toggle {
+		border-left: unset;
+	}
+	
+	.rs-menu-toggle {
+		text-align: right;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-sub-title {
+	    font-size: 20px;
+	    line-height: 30px;
+	    margin: 0;
+	}
+	.rs-slider.home7slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 30px;
+	    line-height: 40px;
+	    margin: 0 0 10px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .desc-part {
+		font-size: 15px;
+		line-height: 25px;
+	}
+	.rs-slider.home4slider .single-slide {
+	    display: grid;
+	    align-items: center;
+	}
+	.rs-slider.home4slider .single-slide .desc-part {
+	    padding: 0;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .ensures {
+		font-size: 45px;
+		line-height: 45px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .medical {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .icon-part span {
+		font-size: 20px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .btn-part {
+	    margin-top: 0;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 45px;
+	    line-height: 55px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-sub-title {
+	    font-size: 25px;
+	    line-height: 35px;
+	    margin: 0 0 10px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .desc-part p {
+	    font-size: 15px;
+	}
+	.full_width_sec .item {
+		padding: 30px 20px;
+	}
+	.rs-expertise-part.part1 .img-part{
+		padding-right: unset;
+	}
+	.rs-expertise-part.part1 .img-part{
+		margin-bottom: 50px;
+	}
+	.rs-expertise-part.part1.expertise-part {
+		margin-top: 30px;
+	}
+	.rs-expertise-part.part1{
+		text-align: center;
+	}
+	.rs-item-services-part.pb-105{
+		padding-bottom: 70px;
+	}
+	.rs-item-services-part .title-inner{
+		text-align: center;
+	}
+	.rs-item-services-part .btn-part{
+		margin-bottom: 60px;
+	}
+	.rs-counter-part .rs-counter-list {
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.full_width_sec.margin-top {
+		padding-bottom: 80px;
+	}
+	
+	.rs-slider-part.part6 .rs-book-appointment-part {
+		margin: unset;
+	}
+	.rs-choose-us-part.part2 .appointment-form {
+		width: unset;
+	}
+	.rs-quality-services-part .item-services .item .content-part .desc-part {
+		font-size: 14px;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text {
+		padding: 100px 20px 100px;
+	}
+	.rs-portfolio-Detail.part2 .rs-treatments-part .table-part table {
+		max-width: unset;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li{
+		display: block;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn {
+	    right: 30px;
+	    top: 30px;
+	    transform: translateY(0);
+	}
+	.full-width-header .rs-header .rs-topbar-part .rs-contact-info {
+	    justify-content: center;
+	}
+	.full-width-header .rs-header .rs-topbar-part .topbar-sl-share.text-right{
+		text-align: center !important;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn {
+		display: none;
+	}
+	.nav-menu > .menu-item-has-children > span.rs-menu-parent,
+	.nav-menu .rs-mega-menu > span.rs-menu-parent{
+		padding: 0 23px;
+		height: 62px;
+		line-height: 62px;
+		background: #4e67c8;
+		color: #fff;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li a{
+		font-size: 15px;
+		border-color:  #4e67c8;
+		padding: 18px 20px !important; 
+	}
+	.mobile-hide{
+		display: none !important;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn ul li a.nav-expander i {
+	    margin-right: 0;
+	}
+
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn ul li {
+	    margin-right: 0;
+	    padding-left: 10px;
+	}
+
+	.full-width-header .rs-header .menu-area .main-menu .expand-btn ul li.border-style:after{
+		display: none !important;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu .mega-menu-container .single-megamenu {
+	    width: 100%;
+	    float: none;
+	    padding: 0 15px;
+	}
+	.rs-footer-inner .footer-section .openingfoot li:last-child,
+	.rs-footer-inner .footer-section .widget-contact li:last-child{
+		padding-bottom: 0;
+	}
+	.rs-toolbar-part .rs-contact-info li:nth-child(2){
+		padding-right: 0;
+		border-right: none;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .sub-menu li a {
+	    padding: 10px 15px !important;
+	    color: #303745;
+	}
+	.full-width-header .rs-header.homestyle .menu-area.sticky .main-menu .rs-menu .nav-menu li,
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .nav-menu li {
+		margin-right: 0;
+	}
+	.full-width-header .rs-header .menu-area.menu-sticky.sticky{
+		position: fixed;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .mega-menu.large-mega .mega-menu-container .single-megamenu {
+	    width: 100%;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu .sub-menu{
+		padding: 20px 0 0;
+	}
+	.nav-menu div.sub-menu-close{
+		margin-top: 20px;
+	}	
+	.rs-item-services-part .item-services .icon-part img {
+		width: 50px;;
+	}
+	.rs-icon-slider-part.part3 {
+		margin-top: 80px;
+		z-index: unset;
+	}
+	.rs-why-choose-me-part .rs-book-appointment{
+		margin-top: 40px;
+	}
+	.rs-icon-slider-part.style{
+		padding-top: 300px;
+	}
+	.rs-limited-part .content-part .title-part .title {
+		font-size: 35px;
+	}
+	.rs-slider-part.part4 .medvill-part h2 {
+		font-size: 40px;
+	}
+	.rs-slider-part.part4 .medvill-part h3 {
+		font-size: 14px;
+	}
+	.rs-expertise-part.part3 .img-part {
+		padding-left: 0;
+	}
+	.rs-timetable .style{
+		margin-bottom: 30px;
+	}
+	.rs-slider-part.part6 .rs-book-appointment-part {
+		margin: unset;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item {
+		padding: 35px 12px 40px;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area {
+		margin-top: -177px;
+	}
+	.why-choose-top.pb-215 {
+		padding-bottom: 227px;
+	}
+	.rs-slick-part.pb-185 {
+		padding-bottom: 160px;
+	}
+	.rs-slick-part .team-content-part .img-part .desc-part {
+		max-width: 500px;
+		margin: 27px auto 38px;
+	}
+	.rs-icon-slider-part.position {
+		position: unset;
+		content: unset;
+		margin-top: 80px;
+	}
+	.rs-limited-part .content-part .title-part .dese-part {
+		font-size: 25px;
+		line-height: 35px;
+		margin-bottom: 15px;
+	}
+	
+	.footer-section {
+	    max-width: 500px;
+	}
+	.rs-footer-inner .footer-section .footer-title h3 {
+		margin: 0 0 10px;
+	}
+	.rs-footer-inner .footer-section .openingfoot li {
+		padding: 0 0 10px;
+	}
+	.rs-footer-inner form{
+		max-width: 450px;
+		position: relative;
+	}
+	.rs-slider.home3slider .sl-appointment {
+		padding: 50px 50px;
+		z-index: 1;
+		position: relative;
+	}
+	.rs-happy-patients-part .item,
+	.rs-happy-patients-part.style2 .item {
+		padding: 130px 40px 50px;
+		text-align: center;
+	}
+	.rs-happy-patients-part .item .img-part {
+		left: 50%;
+		top: 35px;
+		transform: translateX(-50%);
+	}
+	.rs-happy-patients-part .item .content-part .desc-part:before {
+		top: 50%;
+		left: 50%;
+		margin-right: 0;
+		font-size: 90px;
+		transform: translate(-50%, -50%);
+		opacity: 0.2;
+	}
+	.rs-contact .contact-wrap.revarse {
+		margin: 0 auto;
+	}
+	.rs-contact .contact-wrap {
+		display: block;
+		align-items: unset;
+		background: unset;
+		border-radius: 0;
+		box-shadow: none;
+	}
+	.rs-contact .contact-wrap .common {
+		border-radius: 10px;
+		padding: 60px;
+		width: 100%;
+	}
+	.rs-contact .g-map iframe {
+		height: 450px;
+	}
+	.contact-map iframe {
+		height: 400px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list.border-before::before {
+		left: -55px;
+	}
+	.rs-meet-with-doctor-part.part2 .item .team-inner .img-part .text-area {
+		padding: 0 30px 12px;
+	}
+	.rs-cart .cart-wrap table.cart-table .action .coupon input {
+		width: 280px;
+	}
+	.rs-cart .cart-wrap table.cart-table td,
+	.rs-cart .cart-wrap table.cart-table th {
+		padding: 15px;
+	}
+	.rs-cart .cart-wrap table.cart-table th {
+		font-size: 16px;
+	}
+	.rs-cart .cart-collaterals .cart-totals {
+		width: 100%;
+		float: none;
+	}
+}
+@media only screen and (max-width: 767px){
+	.rs-about.style1 .rs-count.homestyle {
+		padding: 30px 30px 30px 40px;
+	}
+	.rs-portfolio-Detail.part3 .inner-images {
+		padding: 40px 30px 30px;
+	}
+	.rs-portfolio-Detail.part3 .project-desc {
+		padding: 28px;
+	}
+	.rs-portfolio-Detail.part3 .details-tabs-area .team-detail-wrap {
+		padding: 20px 30px;
+	}
+	.rs-portfolio-Detail .inner-content-part {
+		padding: 20px;
+	}
+	.rs-portfolio-Detail .content-part .title-upper {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.rs-portfolio-Detail.part2 .rs-treatments-part .table-part {
+		padding-top: 20px;
+		padding-right: 20px;
+		padding-bottom: 20px;
+		padding-left: 20px;
+	}
+	.rs-get-an-appointment-part .rs-book-appointment {
+		padding: 30px;
+	}
+	.rs-doctors-appointment-part .content-part .title-part {
+		font-size: 32px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .btn-part .readon::after {
+		right: 25px;
+		font-size: 13px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .ensures {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .medical {
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.rs-slider.home4slider .single-slide .desc-part .icon-part span {
+		font-size: 18px;
+		line-height: 18px;
+	}
+	.sec-title .desc {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.sec-title .title-small2 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.bg4 {
+		background-position: 50% 0;
+	}
+	.rs-item-services-part .item-services .item-content .title {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu {
+	    max-width: 510px;
+	}
+	.sec-title .title,
+	.sl-appointment .sec-title .title,
+	.rs-why-choose-us .why-choose-bottom .tab-area .tab-content .tab-pane .content-part .title {
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.description p br {
+		display: none;
+	}
+	.rs-slick-part .team-content-part .img-part .desc-part {
+		font-size: 14px;
+	}
+	.rs-slider.home-slider .single-slide {
+		height: 500px;
+	}
+	.rs-slider.home-slider .single-slide .content-part {
+		padding-top: 40px;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.rs-slider.home2slider .single-slide .title-part .title {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.rs-slider.home2slider .single-slide {
+		padding: 150px 0;
+	}
+	.rs-slider.home6slider .single-slide {
+		height: 500px;
+	}
+	.rs-slider.home6slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 40px;
+	    line-height: 50px;
+	}
+	.rs-slider.home6slider .single-slide.skew::after {
+		left: -60px;
+	}
+
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 35px;
+	    line-height: 45px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-sub-title {
+	    font-size: 18px;
+	    line-height: 28px;
+	}
+	.rs-icon-slider-part.part2 {
+		margin: 0 !important;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread {
+	    padding: 150px 0 75px;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread .title-part {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.rs-item-services-part .item-services {
+		display: block;
+	}
+	.rs-item-services-part .item-services .icon-part {
+		padding-right: 0;
+		margin-bottom: 10px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list {
+		border-right: none;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area {
+		margin-top: 0;
+	}
+	.rs-why-choose-us .why-choose-top {
+		background: #f9f8ff;
+	}
+	.rs-why-choose-us .why-choose-top .sec-title .title {
+		color: #0b2ba7 !important;
+	}
+	.rs-why-choose-us .why-choose-top .sec-title .desc {
+		color: #494949 !important;
+	}
+	.rs-why-choose-us .why-choose-top {
+		padding-bottom: 50px;
+		margin-top: -8px;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs {
+		display: block;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs {
+		background: unset;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li {
+		border: none;
+		width: 100%;
+		background: #fff;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li:last-child,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li {
+		margin-bottom: 20px;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item {
+		padding: 10px 30px;
+		display: flex;
+		align-items: center;
+		border-radius: 3px;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item .title {
+		padding: 0;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item .title,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item i {
+		color: #494949;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item.active .title,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item.active i,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item:hover .title,
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item:hover i{
+		color: #fff;
+	}
+	.rs-why-choose-us .why-choose-top .sec-title .desc.left-line.white:after {
+		background: #0b2ba7;
+	}
+	.rs-why-choose-us .why-choose-bottom .tab-area .nav-tabs li a.tab-item i {
+		margin-right: 10px;
+	}
+	.rs-inner-services-item-part .item-services .services-desc .title {
+		padding: 0;
+	}
+	.rs-item-services-part .item-services .item-content .title {
+		margin-bottom: 5px;
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.rs-our-qualified-doctor .item .team-inner .normal-text .person-name a {
+		font-size: 20px;
+	}
+	.rs-inner-blog-part .main-part .single-content .blockquote {
+		padding: 20px 20px 20px;
+	}
+	.rs-inner-blog-part .main-part .single-content .blockquote {
+		font-size: 17px;
+		line-height: 29px;
+	}
+	.rs-inner-blog-part .main-part .single-content .content-desc .title {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.rs-portfolio-Detail .padding{
+		padding-right: 15px;
+	}
+	.pr-53 {
+	    padding-right: 15px;
+	}
+	.rs-portfolio-Detail .style{
+		padding-top: 40px;
+	}
+	.rs-slider-part.part7 .desc-part .ensures {
+		font-size: 53px;
+	}
+	.rs-slider-part.part7 .desc-part .medical {
+		font-size: 42px;
+	}
+	
+	.rs-slider-part .content-part .tag-part h1{
+		font-size: 35px;
+	}
+	.rs-slider-part .content-part .tag-part h3{
+		font-size: 22px;
+	}
+	
+	.full_width_sec .item{
+		padding: 34px 27px;
+	}
+	.rs-why-choose-me-part #accordion .card .card-body{
+		font-size: 13px;
+	}
+	.rs-why-choose-me-part #accordion .card .card-header .card-link{
+		font-size: 15px;
+	}
+
+	.rs-services-flaticon-part .services-item .contents .services-desc h2 {
+		font-size: 18px;
+
+	}
+	.rs-services-flaticon-part .services-item .contents .icon-part img{
+		height: 45px;
+	}
+	.rs-toolbar-part .logo-part img {
+		max-height: 25px;
+	}
+	.full-width-header .row {
+		position: relative;
+	}
+	.full-width-header .mobile-menu-area {
+	    width: 100%;
+	    position: absolute;
+	    right: 0;
+	    top: -20px;
+	}
+	.rs-slider-part.part3 .rs-discover-part .title-part .medical {
+		font-size: 58px;
+	}
+	.rs-quality-services-part .item-services .item .icon-part img {
+		max-width: 40px;
+	}
+	.rs-quality-services-part .item-services .item .content-part .category {
+		font-size: 19px;
+	}
+	.rs-quality-services-part .item-services .item .content-part .desc-part {
+		font-size: 15px;
+	}
+	.rs-limited-part .content-part .title-part .title {
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.rs-limited-part .content-part .title-part .dese-part {
+		font-size: 20px;
+		margin-bottom: 5px;
+	}
+	.rs-limited-part .content-part .title-part .desc-part {
+		font-size: 15px;
+	}
+	.rs-limited-part .content-part .title-part .desc-part br {
+		display: none;
+	}
+	.rs-our-patients-part3 .item .content-part .desc-part p {
+		font-size: 14px;
+	}
+	.rs-our-patients-part3 .item .content-part .cl-author .name {
+		font-size: 17px;
+		padding-top: 0;
+	}
+	.rs-quality-services-part .item-services .item .icon-part {
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+	}
+	.rs-footer-inner .footer-section .footer-logo img {
+		height: 25px;
+	}
+	.rs-get-an-appointment-part .rs-book-appointment {
+		margin-right: unset;
+	}
+	.rs-inner-blog-part .widget-area .recent-post-widget .post-img {
+		width: unset;
+		float: unset;
+		padding: 0;
+		margin: 0 0 15px;
+	}
+	.rs-portfolio-Detail .class{
+		padding-left: 16px;
+	}
+	.rs-portfolio-Detail .title-part .leading-part {
+		font-size: 20px;
+	}
+	.rs-contact-part .rs-item-part .item-address-part .address-text span {
+		font-size: 14px;
+	}
+	.rs-contact-part .rs-item-part.part2 {
+		padding-left: 10px;
+	}
+	.rs-expertise-part.part2.pt-177 {
+		padding-top: 56px;
+	}
+	.sec-title .desc.left-line:after {
+		top: -14px;
+	}
+	.sec-title .desc.left-line {
+		padding: 0;
+	}
+	.rs-contact .contact-wrap .common {
+		padding: 40px;
+	}
+	.rs-contact-part .home-appointment {
+		padding: 50px 40px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list.border-before::before {
+		left: -25px;
+	}
+	.rs-cart .cart-wrap table.cart-table .action .update-cart {
+		margin-top: 10px;
+	}
+	.rs-cart .cart-wrap table.cart-table .action .coupon {
+		float: none;
+	}
+	.rs-cart .cart-wrap table.cart-table .action .coupon input {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.rs-cart .cart-wrap table.cart-table .action .coupon button,
+	.rs-cart .cart-wrap table.cart-table .action .coupon input,
+	.rs-cart .cart-collaterals .cart-totals .wc-proceed-to-checkout button,
+	.rs-cart .cart-wrap table.cart-table .action .update-cart button {
+		width: 100%;
+	}
+	.rs-cart .cart-wrap table.cart-table td, .rs-cart .cart-wrap table.cart-table th {
+		padding: 10px;
+	}
+	.rs-checkout .coupon-toggle .accordion .card .card-body .coupon-code-input {
+		margin-right: 30px;
+	}
+}
+@media only screen and (max-width: 575px){
+	.rs-about.style1 .rs-count.homestyle {
+		padding: 50px 30px;
+	}
+	.rs-department-part .rs-inner-services .desc-department-part {
+		padding: 55px 30px 30px;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text .content-text .normal-text .team-name {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.inner-shop-part .shorting .woocommerce-result-count {
+		margin-bottom: 15px;
+	}
+	.inner-shop-part .shorting {
+		text-align: center;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text .content-text .normal-text .team-title {
+		font-size: 14px;
+		line-height: 25px;
+	}
+	.rs-department-part .rs-inner-services .desc-department-part .services-part .title {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.rs-team-grid-doctor-part .team-item-services .team-img .wrap-text .team-desc {
+		font-size: 13px;
+		line-height: 26px;
+	}
+	.rs-our-quality-services-part .rs-services-part .item-services .services-desc .title a {
+		font-size: 20px;
+		line-height: 40px;
+	}
+	.rs-our-quality-services-part .rs-services-part .item-services .icon-part img {
+		width: 50px;
+	}
+	.sl-appointment .sec-title .title,
+	.rs-why-choose-us .why-choose-bottom .tab-area .tab-content .tab-pane .content-part .title {
+		font-size: 18px;
+		line-height: 30px;
+		padding-bottom: 5px;
+	}
+	.readon.transparent {
+	    font-size: 15px;
+	    line-height: 22px;
+	    padding: 8px 52px 8px 25px;
+	}
+	.xs-mb-0 {
+		margin-bottom: 0px;
+	}
+	.xs-mb-30 {
+		margin-bottom: 30px;
+	}
+	.full-width-header .rs-header .menu-area .main-menu .rs-menu.small-width {
+	    max-width: unset;
+	    width: 95%;
+	}
+	.rs-slider.home3slider .sl-appointment {
+		border-radius: 0;
+	}
+	.rs-slider.home3slider {
+		padding: 0;
+	}
+	.rs-item-services-part .item-services {
+		text-align: center;
+		padding: 45px 20px 40px;
+	}
+	.readon.transparent:after {
+		font-size: 17px;
+	}
+	.rs-slider.home2slider .single-slide .title-part .title {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.rs-slider.home2slider .single-slide .desc-part p br {
+		display: none;
+	}
+	.rs-about.style1 .rs-count {
+		text-align: center;
+	}
+	.rs-slider.home-slider .single-slide {
+		height: unset;
+		padding: 130px 0 100px;
+	}
+	.rs-slider.home-slider .single-slide .content-part {
+		padding-top: 0;
+	}
+	.rs-slider.home4slider .single-slide,
+	.rs-slider.home5slider .single-slide,
+	.rs-slider.home6slider .single-slide,
+	.rs-slider.home7slider .single-slide {
+	    height: 232px;
+	}
+	.rs-slider.home7slider .single-slide .content-part {
+		max-width: 475px;
+	}
+	.rs-slider.home7slider .single-slide .content-part .desc-part br {
+		display: none;
+	}
+	.rs-slider.home6slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 35px;
+	    line-height: 45px;
+	}
+	.rs-slider.home6slider .single-slide.skew::after {
+		width: 65%;
+	}
+	.rs-our-quality-services-part .rs-services-part .item-services .services-desc .title {
+		padding-bottom: 0;
+		line-height: 35px;
+	}
+	.rs-our-quality-services-part .appointment-form {
+	    padding: 50px 30px;
+	}
+	
+	.rs-our-services-part.part2 .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-our-services-part.part2 .sec-title .title {
+		font-size: 25px;;
+	}
+	.rs-choose-us-part.part2 .sec-title .title {
+		font-size: 25px;
+	}
+	.rs-choose-us-part.part2 .appointment-form {
+		padding: 50px 30px;
+	}
+	.rs-latest-part.part5 .description .desc-part {
+		font-size: 14px;
+	}
+	.rs-latest-part.sec-title {
+		font-size: 26px;
+	}
+	.rs-portfolio-Detail.part3 .details-tabs-area .team-detail-wrap .table-part {
+		width: 100%;
+		overflow-x: auto;
+		display: block;
+	}
+	.inner-shop-part .from-control {
+		float: unset;
+	}
+	.rs-appointment .appointment-form {
+		padding: 40px 15px 70px 15px;
+	}	
+	.rs-book-appointment .images-part {
+		padding: 0 20px 70px;
+	}
+	.rs-book-appointment .appointment-form {
+		padding: 70px 30px;
+	}
+	.search-data-contain-part .from-control {
+		margin-bottom: 0px;
+	}
+	.search-data-contain-part input[type="text"] {
+		margin-bottom: 0px;
+	}
+	.rs-slider.home3slider .sl-appointment .select-option::after {
+		right: 25px;
+	}
+	.sec-title .desc.left-line::after {
+		display: none; 
+	}
+	.rs-contact-part .rs-item-part .item-address-part .address-text .contact-title {
+		font-size: 18px;
+	}
+	.rs-about.style1 .rs-count .rs-counter-list.border-before::before {
+		display: none;
+	}
+}
+@media only screen and (max-width: 480px){
+	.rs-latest-part.part8 .title a {
+		font-size: 20px !important;
+		line-height: 20px !important;
+	}
+	.rs-team-grid .team-inner .img-part .team-desc {
+		padding: 15px 0 15px;
+	}
+	.rs-inner-medvill-faq-part .content-part #accordion .card .card-header .card-link {
+		font-size: 15px;
+		line-height: 24px;
+	}
+	.rs-inner-blog-part .main-part .single-content {
+		padding: 30px 15px;
+	}
+	.rs-inner-blog-part .main-part .single-content .blockquote {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.rs-expertise-part .progressbar-part .progress {
+		width: 100%;
+	}
+	.readon.jambo {
+		padding: 12px 50px 11px 30px;
+		font-size: 15px;
+	}
+	.rs-medvill-medical-part .rs-services-part .title {
+		font-size: 22px;
+	}
+	.rs-medvill-medical-part .rs-services-part .content-part .best-part {
+		font-size: 22px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .services-desc .title-part {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.rs-medvill-medical-part .rs-services-part .content-part .desc-part {
+		font-size: 15px;
+	}
+	.rs-medvill-medical-part .rs-services-part .winner-part {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.rs-medvill-medical-part .rs-services-part .emergency {
+		font-size: 15px;
+		line-height: 27px;
+	}
+	.rs-medvill-medical-part .rs-services-part .emergency a::before {
+		width: 100px;
+	}
+	.rs-medvill-medical-part .rs-services-part .emergency {
+		font-size: 15px;
+		line-height: 27px;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h2 {
+		font-size: 25px;
+		padding: 0;
+		line-height: 35px;
+	}
+	.rs-slider.home3slider .sl-appointment {
+		padding: 50px 30px;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h3 {
+		font-size: 20px;
+		line-height: 27px;
+	}
+	.rs-happy-patients-part .item, .rs-happy-patients-part.style2 .item {
+		padding: 130px 15px 50px;
+	}
+	.rs-slider.home2slider .single-slide .title-part .title {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.rs-slider.home2slider .single-slide {
+		padding: 100px 0;
+	}
+	.rs-slider.home2slider .single-slide .desc-part {
+		margin-bottom: 20px;
+	}
+	.rs-slider-part.part7 .desc-part .icon-part span {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-title {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.rs-slider.home5slider .single-slide .content-part .tag-part .slider-sub-title {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	.rs-quality-services-part .item-services .item .content-part .title {
+		font-size: 20px;
+		line-height: 27px;
+		margin-bottom: 15px;
+	}
+	.rs-limited-part .content-part .title-part .title {
+		padding-bottom: 10px;
+	}
+	.rs-limited-part .content-part .title-part .dese-part {
+		font-size: 19px;
+	}
+	.rs-quality-services-part .item-services .item .content-part .desc-part br {
+		display: none;
+	}
+	.rs-slider.home-slider .single-slide .content-part .tags-part .title-part h1 {
+		font-size: 25px;
+	}
+	.rs-slider.home-slider .single-slide {
+		padding: 100px 0 70px;
+	}
+	.rs-slider-part.part7 .desc-part .medical {
+		font-size: 24px;
+		line-height: 32px;
+	}
+	.rs-slider-part.part7 .desc-part .icon-part span {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.rs-slider-part.part7 .desc-part .ensures {
+		font-size: 30px ! important;
+		line-height: 40px ! important;
+	}
+	.rs-our-quality-services-part .rs-services-part .item-services .icon-part img {
+		width: 45px;
+	}
+	.rs-our-quality-services-part .rs-services-part .item-services .services-desc .title a {
+		font-size: 20px;
+	}	
+	.rs-toolbar-part .logo-part img {
+		max-height: 15px;
+	}
+	.rs-toolbar-part .rs-contact-info .contact-part {
+		display: none;
+	}
+	.rs-toolbar-part{
+		text-align: center;
+	}
+	.rs-slider-part .content-part .tag-part h1 {
+		font-size: 15px;
+		line-height: 40px;
+	}
+	.rs-slider-part .content-part .tag-part h3 {
+		font-size: 9px;
+		line-height: 0px;
+	}
+	.rs-toolbar-part .rs-contact-info .contact-part{
+		font-size: 7px;
+	}
+	.rs-toolbar-part .rs-contact-info .contact-part i::before {
+		font-size: 26px;
+	}
+	.rs-slider-part .content-part {
+		padding: 100px 60px 100px;
+	}
+	.rs-slider-part .content-part .icon-part p{
+		font-size: 8px;
+	}
+	.rs-services-flaticon-part .services-item .contents .icon-part img {
+		height: 35px;
+	}
+	.rs-services-flaticon-part .services-item .contents .services-desc h2 {
+		font-size: 15px;
+	}
+	.rs-our-services-part .item-services .item .img-part .service-content .service-excerpt .excerpt-content {
+		display: none;
+	}
+	.rs-latest-part .item .blog-item .blog-full .blog-meta .title a {
+		font-size: 16px;
+	}
+	.rs-latest-part .item .blog-item .blog-full .blog-slider-meta .blog-desc p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.rs-why-choose-me-part .rs-book-appointment {
+		padding: 50px 30px;
+	}
+	.rs-why-choose-me-part .rs-book-appointment .sec-title .title {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .icon-part {
+	    float: unset;
+	    padding-right: 0;
+	}
+	.rs-icon-slider-part.part3.style2 .rs-services-wrap .serviecs-item-part .services-desc {
+		padding-left: 0;
+	}
+	.rs-footer-inner .footer-section .footer-logo img {
+		height: 25px;
+	}
+	.rs-slider-part.part3 .rs-discover-part .title-part .medical {
+		font-size: 32px;
+	}
+	.rs-slider-part.part3 .rs-discover-part .desc-part p {
+		font-size: 14px;
+	}
+	.rs-footer-inner .footer-section .footer-logo img {
+		height: 20px;
+	}
+	.rs-book-appointment .appointment-form .title .book {
+		font-size: 19px;
+	}
+	.rs-slider-part.part5 .title-part .welcome-part {
+		font-size: 30px;
+	}
+	.rs-slider-part.part5 .title-part .our-part {
+		font-size: 28px;
+	}
+	.rs-choose-us-part.part2 .appointment-form {
+		width: 100%;
+	}
+	.owl-item .cloned {
+		margin-right: unset;
+	}
+	.title .description {
+		font-size: 15px;
+	}
+	.rs-slider-part.part7 .desc-part .ensures {
+		font-size: 53px;
+	}
+	.rs-item-services-part .column-gap {
+		padding: 0 0px 0 0px;
+	}
+	.rs-item-services-part .item-services {
+		display: block;
+	}
+	.rs-counter-part .rs-counter-list .icon-part img {
+		width: 50px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-count .counter-number {
+		font-size: 30px;
+	}
+	.rs-counter-part .rs-counter-list .counter-top .counter-text {
+		font-size: 15px;
+	}
+	.rs-latest-part.part9 .title a {
+		font-size: 21px !important;
+	}
+	.rs-contact-part .home-appointment .from-control {
+		font-size: 14px;
+	}
+	.rs-portfolio-Detail .class{
+		padding-left: 10px;
+	}
+	.rs-team-inner-part-find-doctor-part .item-team-part .item-team-inner .normal-text .person-name a {
+		font-size: 20px;
+	}
+	.rs-meet-with-doctor-part.part2 .item .team-inner .img-part .text-area {
+		padding: 0 30px 10px;
+	}
+
+	.rs-meet-with-doctor-part.part2 .item .team-inner .img-part .text-area .date-text li,
+	.rs-meet-with-doctor-part.part2 .item .team-inner .img-part .text-area .date-text li span {
+		font-size: 14px;
+	}
+	.rs-inner-blog-part .rs-info-tags .display{
+		display: flex;
+	}
+	.rs-portfolio-Detail .style{
+		padding: 20px;
+	}
+	.rs-inner-blog-part .main-part .single-content .blockquote {
+		padding: 20px 20px 20px;
+	}
+	.rs-inner-blog-part .main-part .single-content .stylelisting .chevron-right-icon {
+		padding: 0;
+	}
+	.rs-inner-blog-part .main-part .single-content .stylelisting .chevron-right-icon li {
+		line-height: 20px;
+	}
+
+	.rs-happy-patients-part .item {
+		padding: 30px 30px 30px;
+	}
+	.rs-expertise-part.part3 .sec-title .title {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.rs-happy-patients-part .sec-title .title {
+		font-size: 30px;
+	} 
+	.rs-happy-patients-part .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-meet-with-doctor-part .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-choose-us-part .description .desc-part {
+		font-size: 16px;
+	}
+	.rs-our-services-part .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-our-patients-part3 .sec-title .title {
+		font-size: 22px;
+	}
+	.rs-our-patients-part3 .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-our-qualified-doctor .description .desc-part {
+		font-size: 15px;
+	}
+	.rs-doctors-appointment-part .content-part .title-part {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.rs-contact .contact-wrap .common {
+		padding: 40px 15px;
+	}
+	.breadcrumbs-inner-part .breadcrumbs-inner-bread .title-part {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	.rs-portfolio-Detail .content-part .title-upper {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.rs-contact-part .home-appointment {
+		padding: 50px 15px;
+	}
+	.rs-cart .cart-wrap table.cart-table {
+		display: block;
+		overflow-x: auto;
+	}
+	.rs-cart .cart-wrap table.cart-table .product-thumbnail a img {
+		min-width: 80px;;
+	}
+	.rs-checkout .coupon-toggle .accordion .card .card-body button {
+		width: 100%;
+		margin-top: 10px;
+	}
+	.rs-checkout .coupon-toggle .accordion .card .card-body .coupon-code-input {
+		width: 100%;
+		float: none;
+		margin: 0;
+	}
+	.rs-checkout .coupon-toggle .accordion .card .card-header .card-title button {
+		display: block;
+		padding: 0;
+	}
+	.rs-checkout .full-grid .form-content-box .form-group textarea {
+		height: 8em;
+	}
+}
